@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ricky0912t@gmail.com
+	name = Ritsuki Toshima
